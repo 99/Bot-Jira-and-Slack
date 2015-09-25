@@ -1,0 +1,2 @@
+jira == 0.50
+websocket_client == 0.32.0

@@ -1,0 +1,11 @@
+#!/usr/bin/env python
+
+from bot import main
+import argparse
+
+if __name__ == '__main__':
+    parser = argparse.ArgumentParser(description="Slacky bot")
+    parser.add_argument('--pluginpath', '-pp', dest='pluginpath', default=None,
+                        help="Path to plugin folder")
+    args = parser.parse_args()
+    main(args)
