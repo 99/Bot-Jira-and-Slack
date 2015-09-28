@@ -1,4 +1,4 @@
-__author__ = 'Matthew Tuusberg'
+__author__ = 'natalie'
 
 import re
 from jira.utils import JIRAError
