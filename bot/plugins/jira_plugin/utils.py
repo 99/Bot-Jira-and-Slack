@@ -1,4 +1,4 @@
-__author__ = 'Matthew Tuusberg'
+__author__ = 'natalie'
 
 from bot.config import config
 
