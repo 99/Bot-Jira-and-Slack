@@ -1,4 +1,4 @@
-__author__ = 'Matthew Tuusberg'
+__author__ = 'natalie'
 
 config = dict(jira_server=None,
               jira_user=None,
