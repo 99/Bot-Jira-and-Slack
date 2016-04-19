@@ -1,18 +1,18 @@
 # My Slack Bot for Jira :smile:
 
-## Installation :100:
+## :powercord:Installation :100:
 
 1. Clone this repo.
 2. [Create a bot](https://my.slack.com/services/new/bot) and copy the API token.
 3. Fill `bot/config.py` with your credentials. This step is required.
 
-## Running bot locally
+## :100: Running bot locally
 
 1. cd into project folder.
 2. `sudo chmod a+x bin/bot`
 3. `make run`
 
-## Deploying on heroku
+##  :thumbsup: Deploying on heroku
 
 1. cd into project folder.
 2. `git push heroku master`
