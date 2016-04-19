@@ -1,6 +1,6 @@
 # My Slack Bot for Jira :smile:
 
-## :powercord:Installation :100:
+## :electric_plug: Installation :100:
 
 1. Clone this repo.
 2. [Create a bot](https://my.slack.com/services/new/bot) and copy the API token.
