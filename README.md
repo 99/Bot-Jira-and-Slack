@@ -1,4 +1,4 @@
-# Slack
+# My Slack Bot for Jira :smile:
 
 ## Installation :100:
 
