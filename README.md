@@ -1,6 +1,6 @@
 # Slack
 
-## Installation
+## Installation :100:
 
 1. Clone this repo.
 2. [Create a bot](https://my.slack.com/services/new/bot) and copy the API token.
@@ -17,4 +17,4 @@
 1. cd into project folder.
 2. `git push heroku master`
 3. `heroku ps:scale worker=1`
-4. `heroku ps` to check that bot is up and running.
+4. `heroku ps` to check that bot is up and running. :thumbsup:
